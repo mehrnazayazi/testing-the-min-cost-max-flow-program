@@ -11,7 +11,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54110498-2b35-46bb-90b4-4e0452b1c365" name="Default Changelist" comment="" />
+    <list default="true" id="54110498-2b35-46bb-90b4-4e0452b1c365" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Data_set_creator_for_mincostmaxflow.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Data_set_creator_for_mincostmaxflow.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Data_set_creator_for_mincostmaxflow" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Data_set_creator_for_mincostmaxflow" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +27,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1W5zLsDxL1MMIrj9ibPB1PqUz6G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +39,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager">
@@ -60,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578454190312</updated>
-      <workItem from="1578454192374" duration="17668000" />
+      <workItem from="1578454192374" duration="18836000" />
     </task>
     <servers />
   </component>
@@ -68,32 +79,32 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="219" key="GridCell.Tab.0.bottom" timestamp="1578922478362">
+    <state width="1398" height="219" key="GridCell.Tab.0.bottom" timestamp="1578924008027">
       <screen x="0" y="0" width="1440" height="837" />
     </state>
     <state width="1398" height="219" key="GridCell.Tab.0.bottom/0.0.1440.834@0.0.1440.834" timestamp="1578917024316" />
-    <state width="1398" height="219" key="GridCell.Tab.0.bottom/0.0.1440.837@0.0.1440.837" timestamp="1578922478362" />
+    <state width="1398" height="219" key="GridCell.Tab.0.bottom/0.0.1440.837@0.0.1440.837" timestamp="1578924008027" />
     <state width="1398" height="219" key="GridCell.Tab.0.bottom/0.0.1440.848@0.0.1440.848" timestamp="1578884531521" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578716683784" />
-    <state width="1398" height="219" key="GridCell.Tab.0.center" timestamp="1578922478360">
+    <state width="1398" height="219" key="GridCell.Tab.0.center" timestamp="1578924008025">
       <screen x="0" y="0" width="1440" height="837" />
     </state>
     <state width="1398" height="219" key="GridCell.Tab.0.center/0.0.1440.834@0.0.1440.834" timestamp="1578917024314" />
-    <state width="1398" height="219" key="GridCell.Tab.0.center/0.0.1440.837@0.0.1440.837" timestamp="1578922478360" />
+    <state width="1398" height="219" key="GridCell.Tab.0.center/0.0.1440.837@0.0.1440.837" timestamp="1578924008025" />
     <state width="1398" height="219" key="GridCell.Tab.0.center/0.0.1440.848@0.0.1440.848" timestamp="1578884531519" />
     <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578716683782" />
-    <state width="1398" height="219" key="GridCell.Tab.0.left" timestamp="1578922478358">
+    <state width="1398" height="219" key="GridCell.Tab.0.left" timestamp="1578924008021">
       <screen x="0" y="0" width="1440" height="837" />
     </state>
     <state width="1398" height="219" key="GridCell.Tab.0.left/0.0.1440.834@0.0.1440.834" timestamp="1578917024310" />
-    <state width="1398" height="219" key="GridCell.Tab.0.left/0.0.1440.837@0.0.1440.837" timestamp="1578922478358" />
+    <state width="1398" height="219" key="GridCell.Tab.0.left/0.0.1440.837@0.0.1440.837" timestamp="1578924008021" />
     <state width="1398" height="219" key="GridCell.Tab.0.left/0.0.1440.848@0.0.1440.848" timestamp="1578884531518" />
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578716683781" />
-    <state width="1398" height="219" key="GridCell.Tab.0.right" timestamp="1578922478361">
+    <state width="1398" height="219" key="GridCell.Tab.0.right" timestamp="1578924008026">
       <screen x="0" y="0" width="1440" height="837" />
     </state>
     <state width="1398" height="219" key="GridCell.Tab.0.right/0.0.1440.834@0.0.1440.834" timestamp="1578917024315" />
-    <state width="1398" height="219" key="GridCell.Tab.0.right/0.0.1440.837@0.0.1440.837" timestamp="1578922478361" />
+    <state width="1398" height="219" key="GridCell.Tab.0.right/0.0.1440.837@0.0.1440.837" timestamp="1578924008026" />
     <state width="1398" height="219" key="GridCell.Tab.0.right/0.0.1440.848@0.0.1440.848" timestamp="1578884531520" />
     <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578716683784" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1578835644565">
@@ -122,7 +133,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/main.cpp</url>
-          <line>155</line>
+          <line>166</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
