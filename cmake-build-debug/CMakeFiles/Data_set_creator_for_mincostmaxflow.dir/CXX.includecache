@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mehrnaz/CLionProjects/Data set creator for mincostmaxflow/main.cpp
+iostream
+-
+iostream
+-
+stdio.h
+-
+

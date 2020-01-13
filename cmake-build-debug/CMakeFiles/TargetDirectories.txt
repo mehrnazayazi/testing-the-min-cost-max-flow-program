@@ -1,0 +1,3 @@
+/Users/mehrnaz/CLionProjects/Data set creator for mincostmaxflow/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mehrnaz/CLionProjects/Data set creator for mincostmaxflow/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mehrnaz/CLionProjects/Data set creator for mincostmaxflow/cmake-build-debug/CMakeFiles/Data_set_creator_for_mincostmaxflow.dir
